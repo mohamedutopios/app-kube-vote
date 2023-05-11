@@ -1,0 +1,8 @@
+{
+  "/socket.io": {
+    "target": "http://result:5000",
+    "secure": false,
+    "changeOrigin": true,
+    "ws": true
+  }
+}
